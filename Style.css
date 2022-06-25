@@ -1,0 +1,33 @@
+#body {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#title {
+    width: 300px;
+}
+
+#lists {
+    background-color: rgb(127, 172, 202);
+    padding: 10px;
+
+}
+
+#Photo1,
+#Photo2,
+#Photo3,
+#Photo4 {
+    width: 218px;
+}
+
+#carrot-cake {
+    width: 872px;
+}
+
+.answers {
+    margin-left: 20px;
+}
+
+#footer {
+    background-color: aquamarine;
+}
