@@ -13,15 +13,28 @@
 
 }
 
-#Photo1,
-#Photo2,
-#Photo3,
-#Photo4 {
-    width: 218px;
+.social-media {
+    display: inline;
+    width: 40px;
+    float: right;
+}
+
+#Photo1, #Photo2, #Photo3, #Photo4 {
+    width: 215px;
+}
+#order {
+    display: inline;
+    width: 20%;
+    float: left;
+}
+#permbajtja {
+    width: 79%;
+    float: right;
 }
 
 #carrot-cake {
-    width: 872px;
+    width: 672px;
+
 }
 
 .answers {
@@ -29,5 +42,16 @@
 }
 
 #footer {
-    background-color: aquamarine;
+    background-color: aqua;
+    
+}
+#footer1 {
+    width: 40%;
+    height: 110px;
+    float: left;
+}
+
+#footer2 {
+    float: center;
+
 }
