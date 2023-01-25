@@ -1,0 +1,53 @@
+body{
+    width: 80%;
+    margin: 0px auto;
+    text-align: center;
+    height: 100vh;
+}
+header h1 {
+    background-color: aliceblue;
+    padding: 0.5rem;
+}
+nav{
+    background-color: aliceblue;
+    padding: 1rem;
+}
+nav a {
+    padding: 10px;
+    
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 6rem;
+    background-color: aliceblue;
+    margin-top: 10px;
+    padding: 5rem;
+}
+section{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+section div{
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    background-color: aliceblue;
+    margin-right: 0.5rem;
+
+}
+.col3{
+    margin-right: 0rem;
+}
+footer{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    height: 3rem;
+}
